@@ -11,4 +11,8 @@ problem solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mtarvecha660-lgtm/Leetcode/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/mtarvecha660-lgtm/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
